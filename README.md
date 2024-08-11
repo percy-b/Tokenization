@@ -1,5 +1,5 @@
-# Tokenization
-Byte Pair Encoding Tokenization (BPE)
+# BPE Tokenization
+Byte Pair Encoding Tokenization (BPE) with support for special tokens
 
 # usage
 1. prepare corpus/text data with relevant special tokens if need be
