@@ -16,3 +16,4 @@ Byte Pair Encoding Tokenization (BPE)
     e.g `tokenizer.decode(ids)`
 6. to get vocabulary, u can use the get_vocabulary function
    e.g `tokenizer.get_vocabulary()`
+7. Beware of using very large vocabulary sizes, as it might cause overfitting
